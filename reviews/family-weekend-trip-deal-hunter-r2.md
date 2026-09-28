@@ -59,19 +59,20 @@ Suggested fix: make the first run six questions: home base, travel limit, party 
 
 ## (c) Clarity and usability for a stranger importing it
 
-26. The weekly scan "runs trip-shortlist for the next two weekends." Trip-shortlist starts by confirming dates and must-haves, and it has no destination. A scheduled run cannot hold that interview, so it will stall, ask questions at the scheduled time, or pick places the owner never named. It also ends by asking the owner to report a booking they did not make.
+26. Getting-started asks 13 questions before any search, or 15 if there are children and a weekly scan. The greeting calls that "a few quick questions," and an unfinished answer blocks every search. The fix is the shorter first run in the section above.
+27. The weekly scan "runs trip-shortlist for the next two weekends." Trip-shortlist starts by confirming dates and must-haves, and it has no destination. A scheduled run cannot hold that interview, so it will stall, ask questions at the scheduled time, or pick places the owner never named. It also ends by asking the owner to report a booking they did not make.
     Suggested fix: "The weekly scan does not ask questions. It searches stays within the saved travel limit of home base, for the next two weekends, using saved budget, cancellation window, and must-haves if any. It sends one shortlist, or one line that the site could not be opened. It runs only after setup is finished. It does not use the booking-reminder closer."
 
-27. Quiet hours and the early reminder need a real timezone and a start time. Question 11 asks "What's your timezone?" and the sample answer is "Central European," which is not a zone a clock can use. Question 15 does not say the weekly time must fall outside quiet hours. "Just before quiet hours start" has no number of minutes.
+28. Quiet hours and the early reminder need a real timezone and a start time. Question 11 asks "What's your timezone?" and the sample answer is "Central European," which is not a zone a clock can use. Question 15 does not say the weekly time must fall outside quiet hours. "Just before quiet hours start" has no number of minutes.
     Suggested fix: ask for a zone such as Europe/Madrid, and for quiet hours as a 24-hour start and end. If the weekly time falls inside quiet hours, ask again. Send an early reminder 15 minutes before quiet hours start.
 
-28. Settings are "changed only by the owner," and getting-started also tells the bot to write that same log. Read literally, the bot is not allowed to save the answers.
+29. Settings are "changed only by the owner," and getting-started also tells the bot to write that same log. Read literally, the bot is not allowed to save the answers.
     Suggested fix: "Write the settings log from the owner's answers during getting-started. After that, change it only when the owner asks, and replace the old log rather than adding a second one."
 
-29. The reminder says "this stay" and "the stored deadline" without the property name or the clock time. Two bookings produce the same message, and the owner can cancel the wrong stay on the site.
+30. The reminder says "this stay" and "the stored deadline" without the property name or the clock time. Two bookings produce the same message, and the owner can cancel the wrong stay on the site.
     Suggested fix: "Include the property name and the deadline in the owner's timezone. Do not include guest names, confirmation codes, or payment data."
 
-30. The job says good value is the lowest total price, "weighed against" travel time and rating. Skill 1 puts free-cancellation options first. Event-trip ranks by travel time to the venue, then price. Those are three different lists.
+31. The job says good value is the lowest total price, "weighed against" travel time and rating. Skill 1 puts free-cancellation options first. Event-trip ranks by travel time to the venue, then price. Those are three different lists.
     Suggested fix: "Drop stays that miss the budget, the must-haves, or the cancellation window. Ordinary trips: sort by total price, lowest first. Event trips: sort by travel time to the venue, then price. Show the rating; do not re-rank by it. When prices tie, prefer the later free-cancellation deadline."
 
 ## (d) Storefront appeal of name and description
