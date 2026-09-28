@@ -19,7 +19,7 @@ Facts the copy is allowed to use: he is a senior solutions engineer, a father of
 
 ### Channel roles
 
-X (@antoniostoner) is the serial channel. One X Article per bot, released on its own day, plus a launch thread and a small number of single tweets that carry one rule from a template. Readers who care about bots, promises, habits, or family trips should be able to enter on any article and still get the safety rule and the link for that bot. The launch thread is the index. The first reply under it holds the four links and is edited as each article goes live.
+X (@antoniostoner) is the serial channel. One X Article per bot, each in its own post and its own time slot. Two bots may share a calendar day. They never share a post or an hour. Readers who care about bots, promises, habits, or family trips should be able to enter on any article and still get the safety rule and the link for that bot. The launch thread is the index. The first reply under it holds the four links and is edited as each article goes live.
 
 LinkedIn (linkedin.com/in/antoniodelasnieves) is the bundle. One post, with an optional carousel, goes up only after all four links are real. The tone is a senior solutions engineer showing four narrow tools, including the ones that touch family logistics. It is a single artifact a peer can forward. It is not a paste of an X thread.
 
@@ -27,40 +27,40 @@ The two channels do different jobs, so they do not carry the same wording on the
 
 ### Sequencing and cadence
 
-All times below are local Europe/Madrid. Keep Madrid time as the source of truth.
+One bot per day is a little easier to host, and the scoreboard maps one day to one link. It is not much better for reach, bookmarks, or follow-through, and the slower two-week drip is worse than either.
 
-Clock overlap with the US, while Europe is on CEST (UTC+2) and the US is on daylight time:
+Reach belongs to each post, not to the calendar day. A second article the same day does not erase the first. Two articles in the same hour do compete: they hit the same scroll, and you can be present in only one thread. Two articles about nine hours apart do not. 08:30 reaches EU and UK morning. 17:30 reaches the end of the Spanish work day and the US work morning. An idle day between bots does not add that second audience. It asks the same followers again tomorrow.
 
-- 08:30 Madrid = 02:30 US Eastern = 23:30 US Pacific the evening before. This is an EU and UK morning slot. It is a weak US slot.
-- 13:00 Madrid = 07:00 US Eastern = 04:00 US Pacific. Spanish lunch, early US East, US West still quiet.
-- 14:30 Madrid = 08:30 US Eastern = 05:30 US Pacific. Best LinkedIn overlap: Spanish work afternoon and US East morning.
-- 18:00 Madrid = 12:00 US Eastern = 09:00 US Pacific. Best X overlap: end of the Spanish work day, US East lunch, US West start of the work day.
+Bookmarks attach to a post. Two posts with two links can be saved separately, so the scoreboard shows which bot people meant to try. One post with two links produces one save and no split. Spacing the same two posts onto two dates does not raise the odds that a given bot is saved.
 
-After the last Sunday of October, Madrid returns to CET (UTC+1). Until US daylight time ends, the gap to the US East shrinks by one hour. Recompute the US columns if the arc slips past that Sunday. Do not move the Madrid times to chase a US clock.
+Follow-through is one import decision plus your replies. Two articles at 17:30 ask for two decisions in one sitting, and one 75-minute window cannot host both threads. Nine hours apart, each bot keeps one decision and one reply window. Going slower than that spends intent. These are free templates on a personal account. There is no existing series that people have learned to wait for. Most clicks will happen while the launch thread is new. Holding a link until the following week does not increase its reach.
 
-Start on the first Tuesday on which the share links you need for that week's posts are real. If that is the week of 28 September 2026, Week 1 Tuesday is 29 September 2026. The arc from that Tuesday through the recap on the Monday 13 days later is two weeks.
+Recommendation: two bots on a day that has two slots, one bot per slot, never two in the same hour. Tuesday 29 September has only the 17:30 launch slot, so that day is one bot. Do not add a late-night second article. Wednesday is the two-bot day. Thursday morning is the fourth bot. Thursday 17:30 repeats that same link for the US. It is not a fifth topic.
+
+All times below are local Europe/Madrid. This arc (29 September through 5 October 2026) is before the autumn clock change, so Europe is on CEST (UTC+2) and the US is on daylight time. Madrid is 6 hours ahead of US Eastern and 9 hours ahead of US Pacific.
+
+- 08:30 Madrid = 02:30 US Eastern = 23:30 US Pacific the evening before. EU and UK morning. Weak US slot. Use it for a new article the European desk can read, and as the sweep of overnight replies.
+- 10:30 Madrid = 04:30 US Eastern = 01:30 US Pacific. Saturday morning in Spain. One light post only.
+- 14:30 Madrid = 08:30 US Eastern = 05:30 US Pacific. LinkedIn slot: Spanish work afternoon, US East morning.
+- 17:30 Madrid = 11:30 US Eastern = 08:30 US Pacific. Main X slot: end of the Spanish work day, US East late morning, US West start of the work day.
 
 Publish in this order: health check, promise tracker, habit check-in, getaway finder.
 
-The health check goes first because it is the desk the other assistants sit on, and it teaches the needs-you rule in the clearest form. The promise tracker goes second, on a Friday, because the line people can repeat ("OK, on it" is not done) is the one most likely to travel beyond people who already build bots, and Friday is when open loops are visible. The habit check-in goes on a Monday, when a weekly focus is a natural action. The getaway finder goes on a Thursday, ahead of weekend planning, after the earlier posts have already shown that these bots stop before money and messages. LinkedIn closes the set on Friday once all four links exist.
+The health check goes first, inside the launch, because it is the desk the other assistants sit on and it teaches the needs-you rule. The promise tracker goes Wednesday morning: the line people can repeat ("OK, on it" is not done) is the one most likely to travel past people who already build bots, and it should be in front of them while the launch thread is still new. The habit check-in is Wednesday at 17:30, a different lane from the promise tracker, in the US-overlap slot. The getaway finder is Thursday morning, ahead of weekend planning, after the earlier posts have shown that these bots stop before money and messages. LinkedIn closes the set on Friday once all four links have already had a day on X.
 
-Week 1
+Every post:
 
-- Tuesday 18:00. Launch. Post hook option 1, then the thread in section 2. Pin the thread. First reply is the index: four names, one line each, and "link lands with the article" until the URL exists. Stay in the replies from 18:00 to 19:15. Sweep again Wednesday 08:15 for overnight replies.
-- Wednesday 08:30. Publish the Bot Team Health Check article. Pointer tweet (EU morning). Add the real link to the pinned thread's first reply.
-- Wednesday 18:00. US pointer for the same article, different sentence from the morning tweet. Replies 18:00 to 19:15.
-- Thursday 13:00. One standalone tweet, one rule, same link: "Bot Team Health Check marks a patch as applied only after it sees the updated text. It does not invent a bot's status."
-- Friday 18:00. Publish the Promise Tracker article. Pointer tweet uses the "no proof, not done" line. Replies 18:00 to 19:15. Saturday 08:15 sweep. No new post on Saturday or Sunday unless a factual correction cannot wait.
-
-Week 2
-
-- Monday 18:00. Publish the Daily Habit Check-in article. Pointer tweet. Replies 18:00 to 19:15.
-- Tuesday 13:00. One standalone tweet: "Daily Habit Check-in stores done or not done, plus the habit name. It does not store the text of the reply."
-- Thursday 18:00. Publish the Family Getaway Finder article. Pointer tweet leads with the booking rule: it shortlists, and the owner books, including when the owner says yes to a booking. Replies 18:00 to 19:15.
-- Friday 14:30. LinkedIn post and carousel (section 4), all four links live.
-- Friday 18:00. One X post that lists the four links again for people who will not cross to LinkedIn. One sentence on what the LinkedIn post is for. Do not make X readers leave X to get the templates.
-- Saturday 10:30. One weekend post pointing only at the getaway finder: what a shortlist contains, and the free-cancellation default of 7 days before arrival. Then stop.
-- The following Monday 18:00 (end of the two weeks). Recap thread: four links, the three questions that actually came up, and any wording you corrected. No new results. Leave the original thread pinned. The recap points back to it.
+- Tuesday 29 September 2026, 17:30. Launch. Hook option 1, then the thread in section 2. Publish the Bot Team Health Check article in the same slot. Pin the thread. First reply lists four names and the health-check link, with the other three marked for Wednesday 08:30, Wednesday 17:30, and Thursday 08:30. If that first link is not real, do not post. Move the whole calendar one day rather than launching with no link. Replies 17:30-18:45.
+- Wednesday 30 September 2026, 08:15. Sweep Tuesday's replies.
+- Wednesday 30 September 2026, 08:30. Publish the Promise Tracker article. Pointer tweet uses the "no proof, not done" line. Add the link to the pinned reply. EU replies until 09:00.
+- Wednesday 30 September 2026, 17:30. Publish the Daily Habit Check-in article. Pointer tweet. Add the link to the pinned reply. Replies 17:30-18:45.
+- Thursday 1 October 2026, 08:15. Sweep Wednesday's replies, including US evening replies that landed overnight.
+- Thursday 1 October 2026, 08:30. Publish the Family Getaway Finder article. Pointer tweet leads with the booking rule: it shortlists, and you book, even if you say yes to a booking. Add the link. The index is now complete. EU replies until 09:00.
+- Thursday 1 October 2026, 17:30. US pointer for the Family Getaway Finder only. Same link, different sentence from the morning tweet. Not a new bot. Replies 17:30-18:45.
+- Friday 2 October 2026, 14:30. LinkedIn post and carousel (section 4). All four links are already live.
+- Friday 2 October 2026, 17:30. One X post that lists the four links for people who will not cross to LinkedIn. One sentence on what the LinkedIn post is for. Replies 17:30-18:15.
+- Saturday 3 October 2026, 10:30. One weekend post pointing only at the getaway finder: what a shortlist contains, and the free-cancellation default of 7 days before arrival. Then stop until Monday.
+- Monday 5 October 2026, 17:30. Recap. Four links, the questions that actually came up, and any wording you corrected. No new results. Leave the original thread pinned. The recap points back to it. Replies 17:30-18:15.
 
 Pointer tweets, to pair with each article:
 
@@ -71,9 +71,9 @@ Pointer tweets, to pair with each article:
 
 Cadence rules:
 
-- One primary post per release slot. The 18:00 reshare of a morning article is the US door to that same article, not a second topic.
-- Empty days stay empty except the two planned standalone rule tweets (Thursday of week 1, Tuesday of week 2). Silence is what makes the articles readable.
-- Post the article only when its link works. A missed Wednesday slides the health check to Thursday 08:30 and Thursday's rule tweet drops. Do not stack two articles on one day to "catch up." Shift the later pieces by the same gap, and keep LinkedIn after the fourth link.
+- One primary post per slot. Wednesday's two articles are two slots, 08:30 and 17:30. Thursday 17:30 is the US door to the Thursday morning article, not a second topic.
+- No standalone rule tweets during this week. The articles are the posts. A line that gets quoted can be reused after Monday's recap.
+- Post an article only when its link works. Article slots, in order, are Tuesday 17:30, Wednesday 08:30, Wednesday 17:30, Thursday 08:30. If one link is late, that article takes the next slot and the later articles shift with it. Thursday 17:30 becomes an article slot only in that case, and the separate US pointer drops. Never put two articles in one slot to catch up. LinkedIn stays on Friday 14:30 if all four links are live before then. If the fourth link is later than Thursday 17:30, move LinkedIn to 14:30 on the next weekday after that link, and move the Friday 17:30 X index with it.
 
 ### What to measure
 
@@ -95,13 +95,13 @@ LinkedIn, same 24-hour and 72-hour marks: impressions, comments that discuss a r
 
 Decisions, made once:
 
-- After the health-check pair (Wednesday 08:30 vs Wednesday 18:00), compare link clicks and bookmarks. If 18:00 wins, keep long articles in the morning for EU readers and keep the live conversation at 18:00. If 08:30 wins on clicks, move later article publishes to 08:30 and keep a shorter 18:00 pointer. One comparison. Then lock the pattern for the remaining articles.
+- Do not treat Wednesday 08:30 (Promise Tracker) and Wednesday 17:30 (Daily Habit Check-in) as a test of the clock. They are different bots. The clock test is the Family Getaway Finder: Thursday 08:30 article versus Thursday 17:30 pointer, same link. Compare link clicks and bookmarks at 24 hours. Use that for the next launch. Do not restack this week's earlier posts to chase it.
 - After the recap, rank the four links by clicks. That ranking chooses what you document next. It does not change what you claim about these four.
 - Quote posts: note whether the quoted line is a rule from a template or a reaction with no content. Rules that get quoted are the lines to reuse. Reactions with no content are not a reason to post more often.
 
 ### Reply and engagement
 
-The useful window is the first 75 minutes after an 18:00 post, plus a 15-minute sweep the next morning at 08:15. US West late evening still lands in the Spanish early morning, so the sweep matters.
+The useful window is the first 75 minutes after a 17:30 post (until 18:45), and until 09:00 after an 08:30 post. The 08:15 sweep also picks up US West replies from the night before, which land in the Spanish early morning. On Wednesday and Thursday that sweep happens, then the 08:30 article goes out. Host one thread per window. When Wednesday has two articles, finish the morning replies before 09:00 and be back at 17:30 for the second bot. Do not try to run both at once.
 
 Reply to questions about behavior, setup, and safety first. Answer with the specific rule from that template, in two or three sentences, and point at the article only when the answer needs the full setup. When someone describes their own roster or an open loop, ask one follow-up that you can actually use ("which two bots both claim that job?"), then stop.
 
@@ -123,11 +123,11 @@ A person who asks "which one should I import?" gets a direct answer based on the
 
 Each bot produces four surfaces, in this order: the pointer tweet, the X Article, one standalone rule tweet, and one slide in the LinkedIn carousel. The article is the source. The shorter pieces quote a rule that already appears there. They do not add a result.
 
-The launch thread is the only post that presents all four before LinkedIn. The Friday 18:00 X post in week 2 is a link index, not a new essay. The closing Monday recap reuses the questions people actually asked. If a question did not come up, it does not go in the recap.
+The launch thread is the only post that presents all four before LinkedIn. The Friday 2 October 17:30 X post is a link index, not a new essay. The Monday 5 October recap reuses the questions people actually asked. If a question did not come up, it does not go in the recap.
 
 LinkedIn is written from the four articles after they are frozen. It uses the professional frame (handoffs, acceptance bars, a hard stop before send and spend) and mentions family logistics as part of the same operating problem. It does not reuse tweet cadence, hook numbering, or "thread" language.
 
-Later, optional and outside this two-week arc: one Spanish post per bot, translating claims that are already in the English article, with no new numbers. Run Spanish on a different day from that bot's English article so one release is not split across two audiences in the same news cycle. Do not start the Spanish series until the English recap is done.
+Later, optional, and only after the Monday 5 October recap: one Spanish post per bot, translating claims that are already in the English article, with no new numbers. Run Spanish on a different day from that bot's English article so one release is not split across two audiences in the same news cycle.
 
 Build-in-public material that is allowed: a sentence you had to correct, a setup question people stumbled on, a change you made to a template afterward. Build-in-public material that is not allowed: invented before-and-after metrics, a count of assistants, a discount, or a screenshot that shows anyone else's data.
 
@@ -155,7 +155,7 @@ Do not say this:
 
 ### Recommended launch hook
 
-Use option 1 as the Tuesday 18:00 launch tweet. It states the true offer in one post: many assistants, four templates a friend could import, free, narrow jobs, and a stop before send or spend. It gives people a reason to follow a two-week series. Option 3 is the strongest single-bot line. Save it for the Friday promise-tracker pointer, where the product matches the line exactly.
+Use option 1 as the Tuesday 29 September 17:30 launch tweet. It states the true offer in one post: many assistants, four templates a friend could import, free, narrow jobs, and a stop before send or spend. The health-check link is live in the first reply, and the other three land by Thursday morning. Option 3 is the strongest single-bot line. Save it for the Promise Tracker pointer on Wednesday 30 September at 08:30, where the product matches the line exactly.
 
 ### Five hook options
 
@@ -183,11 +183,11 @@ Option 5. Identity.
 
 Option 1 can spread because it is a concrete gift with a boundary. People who already run assistants recognize the pile. People who do not get a set of four, which is small enough to inspect. "The 4 I would tell a friend to import" is an editorial pick by the person who built them, which is a reason to open the thread. The send-or-spend line gives the quote a rule, not a vibe. Nothing in it depends on a count.
 
-Option 2 can spread among people who follow builders. The unit of value is the template, not a screenshot of a chat. Naming the four jobs in one tweet lets someone repost it as a contents page. "Build in public, with the actual templates" sets an expectation you then meet on Wednesday, which is what turns a single post into a series people check back on.
+Option 2 can spread among people who follow builders. The unit of value is the template, not a screenshot of a chat. Naming the four jobs in one tweet lets someone repost it as a contents page. "Build in public, with the actual templates" sets an expectation the launch meets the same hour, with the health-check link, which is what gives the later posts a reason to exist.
 
-Option 3 can spread because two sentences are portable: no yes means no send and no spend, and no proof means a promise stays open. Operators repeat rules they can apply to a human team the same day. The word "eager" names a failure they have already seen in assistants that complete a task in the chat and nowhere else. It is a weaker launch tweet for the set, because a quoter may walk away remembering only the promise tracker. That is why it belongs on Friday, attached to that article.
+Option 3 can spread because two sentences are portable: no yes means no send and no spend, and no proof means a promise stays open. Operators repeat rules they can apply to a human team the same day. The word "eager" names a failure they have already seen in assistants that complete a task in the chat and nowhere else. It is a weaker launch tweet for the set, because a quoter may walk away remembering only the promise tracker. That is why it belongs on Wednesday 30 September at 08:30, attached to that article.
 
-Option 4 can spread because the before state is recognizable without a number: overlapping jobs, and a soft "done." The after state is four behaviors, so a quote still carries the payload. It does not claim that your week changed by a measured amount. Use it as the Monday recap opener if option 1 drew impressions and few bookmarks. Bookmarks are the signal. If option 1 was bookmarked, do not replace it.
+Option 4 can spread because the before state is recognizable without a number: overlapping jobs, and a soft "done." The after state is four behaviors, so a quote still carries the payload. It does not claim that your week changed by a measured amount. Use it as the Monday 5 October recap opener if option 1 drew impressions and few bookmarks. Bookmarks are the signal. If option 1 was bookmarked, do not replace it.
 
 Option 5 can spread because it is a specific person, not a category of AI advice. Solutions engineers and parents are different networks, and this tweet gives both an honest door: work systems and family logistics, built by someone who has both. It should be a reply under the launch thread or the bio-adjacent post, not the lead, because the offer (free templates, what they refuse to do) is the reason a stranger sends it on. Identity explains why you are the one publishing. The product explains why someone else cares.
 
@@ -199,7 +199,7 @@ Post this immediately under hook option 1. Each block is one post.
 
 1.
 
-"I run many personal AI assistants on Grok Bot, for work and for home. Over the next two weeks I am publishing 4 of them as free templates."
+"I run many personal AI assistants on Grok Bot, for work and for home. This week I am publishing 4 of them as free templates. The first one is live now."
 
 2.
 
@@ -232,7 +232,7 @@ Family Getaway Finder"
 
 8.
 
-"One X Article per bot, in this order: health check, promise tracker, habit check-in, getaway finder. I will add each real link to the first reply on this thread when it is live. Ask how a bot behaves before you import it."
+"One article each: health check is live now, promise tracker Wednesday 08:30, habit check-in Wednesday 17:30, getaway finder Thursday 08:30. Madrid time. Each link goes in the first reply. Ask how a bot behaves before you import it."
 
 ---
 
@@ -428,7 +428,7 @@ Import it, answer the six questions, and book the stay yourself.
 
 ## 4. LinkedIn
 
-Post this on the Friday of week 2, at 14:30 Europe/Madrid (08:30 US Eastern while US daylight time and European summer time are both in effect). All four links must be real. The carousel is optional. The post must stand alone if the carousel is skipped.
+Post this on Friday 2 October 2026, at 14:30 Europe/Madrid (08:30 US Eastern, 05:30 US Pacific). All four links must be real. The carousel is optional. The post must stand alone if the carousel is skipped.
 
 ### Post
 
